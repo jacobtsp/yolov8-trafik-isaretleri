@@ -80,24 +80,11 @@ Eğitim sırasında veri artırma (augmentation) ve hiperparametre ayarlamaları
 🎯 Projeden Kazanımlarım
 
 Bu proje sayesinde:
-
-YOLOv8 mimarisi ile nesne tespiti
-
-Veri seti hazırlama & etiketleme süreci
-
-Model eğitimi, değerlendirme ve iyileştirme
-
-GitHub üzerinde proje dokümantasyonu
-
-Gerçek dünya problemlerine yapay zeka uygulama
-
-konularında ciddi tecrübe kazandım.
+YOLOv8 mimarisi ile nesne tespiti veri seti hazırlama & etiketleme süreci model eğitimi, değerlendirme ve iyileştirme gitHub üzerinde proje dokümantasyonu gerçek dünya problemlerine yapay zeka uygulama konularında ciddi tecrübe kazandım.
 
 🧩 Gelecek Geliştirmeler
 
  Gerçek zamanlı webcam entegrasyonu
-
- Modelin mobil (Android) uyarlaması
 
  Daha büyük ve çeşitli veri seti ile yeniden eğitim
 
