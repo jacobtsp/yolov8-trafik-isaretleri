@@ -105,9 +105,3 @@ konularında ciddi tecrübe kazandım.
 
  AR tabanlı trafik işareti gösterimi (gelecek hedef)
 
-👤 Geliştirici
-
-Yakup Taşpınar
-📍 Türkiye
-🎓 Bilgisayar Bilimleri / Yapay Zeka & Bilgisayarlı Görü
-🔗 GitHub: https://github.com/jacobtsp
